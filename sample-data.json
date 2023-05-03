@@ -1,0 +1,44 @@
+{
+    "quizId": "3468j33",
+    "title": "What cheese are you?",
+    "subtitle": "This quiz isn't cheey or anything like that...",
+    "content": [
+        {
+            "id": 0,
+            "text": "Pick a vacation destination",
+            "questions": [
+                {
+                    "text": "New York City",
+                    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+                    "alt": "Photo of Empire State Building during daytime",
+                    "credit": "Oliver Niblette"
+                },
+                {
+                    "text": "Austin",
+                    "image": "https://images.unsplash.com/photo-1531218150217-54595bc2b934?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+                    "alt": "Time-lapse photography car lights on bridge",
+                    "credit": "Carlos Alfonso"
+                },
+                {
+                    "text": "Portland",
+                    "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+                    "alt": "High-rise buildings",
+                    "credit": "Elena Kuchko"
+                },
+                {
+                    "text": "New Orleans",
+                    "image": "https://images.unsplash.com/photo-1549965738-e1aaf1168943?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+                    "alt": "Road with people and house",
+                    "credit": "João Francisco"
+                }
+            ]
+        }
+      {
+        "id": 1,
+        "title": "Pick a home:",
+        "questions": [
+            
+        ]
+      }  
+    ]
+}
